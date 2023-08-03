@@ -4,6 +4,19 @@
     "titleID": "0005000010176a00",
     "tests": [
         {
+            "rating": 4,
+            "comment": "Minor rendering issues, they don't affect gameplay, online works if you copy BOSS files from your Wii U.",
+            "source": "@aem64",
+            "sourceURL": "https://github.com/aem1024",
+            "author": "aem",
+            "date": "2023-8-03",
+            "version": "2.0-45,
+            "hardware": "MacBook Air (M1, 8-GPU, 16GB)",
+            "osVersion": "macOS 14.0 (23A5301h)",
+            "renderingApi": "Vulkan on MoltenVK v1.2.4",
+            "log": ""
+        },
+        {
             "rating": 3,
             "comment": "Significantly less rendering issues than previous test, however I couldn't get online to work.",
             "source": "@emiyl",
